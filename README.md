@@ -39,4 +39,6 @@ Works with globbing on Linux. Note that it uses default sorting for determining 
 
 ## What it could
 
-It would be great if the output filenames were more informative, like they contained the date the original file was created or for mp3s it rewrote the metadata to change the track number to make a compilation or something.
+It would be great if the output filenames were more informative, like they contained the date the original file was created.
+
+It would be awesome if for mp3s it rewrote the metadata to change the track number to make a compilation or something. That should be split into a new project or branch. I don't understand git fully.
