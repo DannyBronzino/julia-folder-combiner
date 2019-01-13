@@ -17,7 +17,7 @@ Input should look like:
   
   thingn.jpg
   
-*folder2/*
+**folder2/**
   
   whatevs1.jpg
   
