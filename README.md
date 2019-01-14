@@ -1,6 +1,8 @@
 # julia-folder-combiner
 It takes two folders containing an arbitrary number of files and combines them with the files renamed sequentially. Good for disparate collections of images or a whole mess of audio samples.
 
+Requires Julia. Tested on JuliaPro 1.0.1.1
+
 ## What it do
 
 Obviously incomplete, but essentially you either run it in a directory containing the folders you want to process and it combines **all** of them, or you can specify which folders to combine with commandline arguments.
