@@ -1,4 +1,5 @@
 # set variables
+# uses // so it works on Windows, but I don't know if that's even necessary
 output_directory = ".//output"
 input_files = []
 split_name = ()
